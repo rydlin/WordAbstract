@@ -1,0 +1,7 @@
+name = "WordAbstract"
+uuid = "2d2f714e-0948-11e9-214f-bd2646a4c5b2"
+authors = ["Linus Rydberg <linusry@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
